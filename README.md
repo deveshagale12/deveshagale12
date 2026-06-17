@@ -1,8 +1,8 @@
 # Hi there, I'm Devesh Agale! 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Java+%26+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Building+Secure+%26+Scalable+Systems;Open+to+Java+Developer+Opportunities!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Java+Developer+%40+Bajaj+Finserv;Spring+Boot+%7C+Microservices+%7C+REST+APIs;BFSI+Domain+%7C+KYC+%7C+Scheduler+Systems;Building+Secure+%26+Scalable+Backend+Systems!)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,36 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working as **Java Developer at Bajaj Finserv Limited** on the **Pennant Financial Core** project
-- 🔐 Building secure **REST APIs**, performing **VAPT analysis**, monitoring logs via **Azure Data Explorer**
+- 🏢 **Java Developer @ Bajaj Finserv Limited** — Pennant Financial Core Project (BFSI Domain)
+- ⚙️ Independently built **Min KYC APIs**, **Gold Loan Fetch-Rate Scheduler**, **VAN Scheduler** (daily 6 PM) handling **10L+ UAT records**
+- 🔐 Implemented **Base64 encryption/decryption**, analyzed **VAPT reports**, monitored **internal & external logs** via **Azure Data Explorer (ADX)**
 - 🚀 Delivered **3 production-grade live projects** — all deployed on cloud
 - 🎓 **B.E. Computer Engineering** — SPPU Pune | CGPA: **8.79/10**
-- 🌱 Currently learning **DSA on LeetCode** & exploring **AWS Developer Associate**
+- 🌱 Currently solving **DSA on LeetCode** & exploring **AWS Developer Associate**
 - 📫 Reach me at: **deveshagale@gmail.com**
 - 🌐 Portfolio: [portfoliodev-hy0w.onrender.com](https://portfoliodev-hy0w.onrender.com/home.html)
+
+---
+
+## 💼 Current Work — Bajaj Finserv (Pennant Financial Core)
+
+```java
+// What I build at Bajaj Finserv 🏦
+public class MyWork {
+    String domain      = "Fintech / BFSI";
+    String project     = "Pennant Financial Core";
+    String team        = "10+ Member Agile Team";
+    String[] built     = {
+        "Min KYC APIs",
+        "Gold Loan Fetch-Rate Scheduler (6 PM daily)",
+        "VAN Scheduler",
+        "Base64 Encryption / Decryption",
+        "VAPT Security Summary Reports"
+    };
+    String scale       = "10L+ UAT Records";
+    String[] tech      = {"Java", "Spring Boot", "Oracle SQL", "Microservices", "Azure", "ADX", "ServiceNow"};
+}
+```
 
 ---
 
@@ -26,6 +49,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -35,44 +59,52 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Cloud & Tools
+### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C752?style=for-the-badge&logo=servicenow&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---
 
 ## 🚀 Live Projects
 
 ### 🔐 [DataPro — Secure Encrypted File Sharing System](https://datapro-bh55.onrender.com/login.html)
-> Java 17 | Spring Boot | Spring Security | MySQL | Supabase Storage
+> Java 17 | Spring Boot | Spring Security | MySQL | Supabase Storage | JavaMailSender
 
-- 🔒 **AES-GCM Encryption** for all uploaded files
+- 🔒 **AES-GCM Encryption** for all uploaded files before cloud storage
 - 🔑 **SHA-256 Hashing** for duplicate file detection
 - 📧 **OTP-Based File Sharing** with email verification & access revocation
 - 👥 **Role-Based Access Control** — Admin & User panels
-- 📊 **Admin Analytics Dashboard** with Chart.js — audit logs, upload stats
+- 📊 **Admin Analytics Dashboard** — audit logs, upload stats, role distribution (Chart.js)
+- 📬 Automated email notifications via **JavaMailSender**
 - ☁️ Deployed on **Render** with **Supabase** cloud storage
 
 [![GitHub](https://img.shields.io/badge/GitHub-DataPro-black?style=for-the-badge&logo=github)](https://github.com/deveshagale12/DataPro)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render)](https://datapro-bh55.onrender.com/login.html)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://datapro-bh55.onrender.com/login.html)
 
 ---
 
 ### 🏫 [Smart College Management System](https://smart-college.onrender.com/home.html)
-> Spring Boot | PostgreSQL | Spring Security | React.js
+> Spring Boot | PostgreSQL | Spring Security | React.js | JavaMailSender
 
 - 📚 **10+ REST API Modules** — Students, Faculty, Fees, Attendance, Marks, Assignments, Parents, Academics
-- 📍 **Geo-Fenced Attendance** using Haversine formula
+- 📍 **Geo-Fenced Attendance** using Haversine formula (500m radius)
 - ⏰ **Auto Absentee Scheduler** via Spring `@Scheduled`
 - 💰 **Fee Payment History Tracking** with due calculation
 - 📸 **Photo Upload** stored directly in PostgreSQL DB
@@ -80,22 +112,22 @@
 - ☁️ Deployed on **Render** with **PostgreSQL**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SmartCollege-black?style=for-the-badge&logo=github)](https://github.com/deveshagale12/Smart_College)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render)](https://smart-college.onrender.com/home.html)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://smart-college.onrender.com/home.html)
 
 ---
 
 ### 💰 [Salary Pro — Payroll Management System](https://salarypro.onrender.com/home.html)
-> Java | Spring Boot | MySQL | JDBC | HTML/CSS/JS
+> Java | Spring Boot | MySQL | JDBC | HTML5/CSS3/JS
 
 - 💵 **Daily Salary Tracking** & advance management
 - 🏦 **Pay-out Processing** with monthly log filtering
 - 📋 **Admin Notice Board** for announcements
 - 👤 **Role-Based Dashboards** — Admin & User panels
 - 📊 Salary summary reports & responsive UI
-- ⚡ Reduced batch processing time by **20%**
+- ⚡ Reduced batch processing time by **20%** with optimized JDBC
 
 [![GitHub](https://img.shields.io/badge/GitHub-SalaryPro-black?style=for-the-badge&logo=github)](https://github.com/deveshagale12/salaryPro)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render)](https://salarypro.onrender.com/home.html)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://salarypro.onrender.com/home.html)
 
 ---
 
