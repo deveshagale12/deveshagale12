@@ -22,24 +22,40 @@
 ---
 
 ## 💼 Current Work — Bajaj Finserv (Pennant Financial Core)
-```java   ← this fixes it
-```
 
-Want me to do anything else to the README before you upload? 😊
-// What I build at Bajaj Finserv 🏦
+```java
+/**
+ * What I build at Bajaj Finserv 🏦
+ * Domain  : Fintech / BFSI
+ * Project : Pennant Financial Core
+ */
 public class MyWork {
-    String domain      = "Fintech / BFSI";
-    String project     = "Pennant Financial Core";
-    String team        = "10+ Member Agile Team";
-    String[] built     = {
+
+    String   company  = "Bajaj Finserv Limited";
+    String   project  = "Pennant Financial Core";
+    String   domain   = "Fintech / BFSI";
+    String   team     = "10+ Member Agile Team";
+    String   scale    = "10L+ UAT Records";
+
+    String[] built = {
         "Min KYC APIs",
-        "Gold Loan Fetch-Rate Scheduler (6 PM daily)",
-        "VAN Scheduler",
-        "Base64 Encryption / Decryption",
-        "VAPT Security Summary Reports"
+        "Gold Loan Fetch-Rate Scheduler  --> runs daily @ 6:00 PM",
+        "VAN Scheduler                   --> runs daily @ 6:00 PM",
+        "Base64 Encryption / Decryption  --> secure data transfer",
+        "VAPT Security Summary Reports   --> vulnerability analysis"
     };
-    String scale       = "10L+ UAT Records";
-    String[] tech      = {"Java", "Spring Boot", "Oracle SQL", "Microservices", "Azure", "ADX", "ServiceNow"};
+
+    String[] techStack = {
+        "Java", "Spring Boot", "Oracle SQL",
+        "Microservices", "Azure", "ADX",
+        "ServiceNow", "Postman", "Maven"
+    };
+
+    String[] tools = {
+        "Azure Data Explorer (ADX)  --> internal & external log monitoring",
+        "ServiceNow                 --> issue tracking & ticket management",
+        "Postman                    --> API testing & validation"
+    };
 }
 ```
 
@@ -167,6 +183,16 @@ public class MyWork {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/deveshagale12/deveshagale12/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🧩 LeetCode Stats
 
 <div align="center">
@@ -176,6 +202,27 @@ public class MyWork {
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deva1212?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
+
+---
+
+## 💡 Fun Facts
+
+- 🏦 Built a **KYC system** handling **10L+ records** at one of India's largest NBFCs
+- ☁️ All **3 personal projects** are live 24/7 on cloud — not just on localhost!
+- 🔐 Implemented **AES-GCM encryption** — same standard used by banks & military
+- ⏰ My schedulers run **automatically every day at 6 PM** — zero manual intervention
+- 📊 Worked on systems that process **financial data** for millions of customers
+
+---
+
+## 🗺️ Learning Roadmap
+
+```
+✅ Done          → Java | Spring Boot | Microservices | Azure | REST APIs
+🔄 In Progress  → DSA on LeetCode | AWS Developer Associate
+🎯 Next Target  → Kafka | Redis | Kubernetes | JWT Security
+🚀 Goal         → Senior Java Backend Developer
+```
 
 ---
 
