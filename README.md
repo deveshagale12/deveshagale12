@@ -22,8 +22,10 @@
 ---
 
 ## 💼 Current Work — Bajaj Finserv (Pennant Financial Core)
+```java   ← this fixes it
+```
 
-```java
+Want me to do anything else to the README before you upload? 😊
 // What I build at Bajaj Finserv 🏦
 public class MyWork {
     String domain      = "Fintech / BFSI";
