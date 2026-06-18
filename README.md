@@ -23,7 +23,7 @@
 
 ## 💼 Current Work — Bajaj Finserv (Pennant Financial Core)
 
-```java```
+```java
 /**
  * What I build at Bajaj Finserv 🏦
  * Domain  : Fintech / BFSI
