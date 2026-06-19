@@ -21,43 +21,6 @@
 
 ---
 
-## 💼 Current Work — Bajaj Finserv (Pennant Financial Core)
-
-```java
-/**
- * What I build at Bajaj Finserv 🏦
- * Domain  : Fintech / BFSI
- * Project : Pennant Financial Core
- */
-public class MyWork {
-
-    String   company  = "Bajaj Finserv Limited";
-    String   project  = "Pennant Financial Core";
-    String   domain   = "Fintech / BFSI";
-    String   team     = "10+ Member Agile Team";
-    String   scale    = "10L+ UAT Records";
-
-    String[] built = {
-        "Min KYC APIs",
-        "Gold Loan Fetch-Rate Scheduler  --> runs daily @ 6:00 PM",
-        "VAN Scheduler                   --> runs daily @ 6:00 PM",
-        "Base64 Encryption / Decryption  --> secure data transfer",
-        "VAPT Security Summary Reports   --> vulnerability analysis"
-    };
-
-    String[] techStack = {
-        "Java", "Spring Boot", "Oracle SQL",
-        "Microservices", "Azure", "ADX",
-        "ServiceNow", "Postman", "Maven"
-    };
-
-    String[] tools = {
-        "Azure Data Explorer (ADX)  --> internal & external log monitoring",
-        "ServiceNow                 --> issue tracking & ticket management",
-        "Postman                    --> API testing & validation"
-    };
-}
-```
 
 ---
 
